@@ -24,4 +24,4 @@ When something is a one time payment and then I actually own it.
 
 When tools do one thing and they do it well.
 
-Brutally honest people.
+Brutal honesty.
