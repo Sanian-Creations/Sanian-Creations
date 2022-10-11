@@ -5,7 +5,7 @@
 ---
 
 ## About me
-I am a programmer. For programming you need: A text editor and a compiler. Anything aside from that is not programming and I hate it because it prevents me from doing actual programming.
+I am a programmer. For programming you need a text editor and a compiler. Anything else is not programming and I hate it because it prevents me from doing programming.
 
 ### Stuff that sucks
 * Software that's:
