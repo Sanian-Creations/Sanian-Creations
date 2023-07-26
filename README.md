@@ -5,4 +5,4 @@
 &nbsp;
 
 ## About me
-I am a programmer. For programming you need a text editor and a compiler. That's all there is to it. 
+I am a programmer. All I need is a text editor and a compiler. In fact, I would prefer it those were the only things people asked me to use. 
